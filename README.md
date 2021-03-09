@@ -6,25 +6,23 @@ Toto je první ze série pěti úkolů, ve kterých si postupně naprogramuješ 
 
 1. Pokud nemáš na [github.com](https://github.com/) účet, založ si jej.
 
-1. Ve svém účtu vytvoř nový veřejný repozitář pojmenovaný `piskvorky`, do kterého budeš průběžně nahrávat tvoji práci.
+1. Ve svém účtu vytvoř nový veřejný repozitář pojmenovaný `piskvorky`, do kterého budeš průběžně nahrávat svoji práci. Nezapomeň zaškrtnout, že nový projekt chceš předchystaný se souborem `README`.
 
-1. U sebe na počítači si přichystej novou složku, taky pojmenovanou `piskvorky`, a v ní vytvoř soubor `index.html`.
+   ![s readme](zadani/s-readme.png)
 
-1. Do `index.html` přidej základní strukturu `html` a mezi značky `<body></body>` vlož nadpis úrovně `h1` s textem `Piškvorky`. Výsledek by měl vypadat takto: ![základ](zadani/zaklad.png)
+1. Repozitář si naklonuj do počítače spuštěním `git clone https://github.com/{DOPLŇ_TVŮJ_USERNAME}/piskvorky.git` na příkazové řádce, v terminálu. Vytvoří se ti složka `piskvorky`, ve které bude `README.md`.
 
-1. Pomocí příkazu `git init` v terminálu připrav složku v počítači pro práci s gitem.
+1. V této složce založ soubor `index.html`.
 
-1. Příkazem `git add .` vyber nově vytvořený html soubor a s `git commit -m "Základní html"` založ první commit.
+1. Do `index.html` přidej základní strukturu `html` a mezi značky `<body></body>` vlož nadpis úrovně `h1` s textem `Piškvorky`. Výsledek by měl vypadat takto:
 
-1. Nahraj první commit na github.
+   ![základ](zadani/zaklad.png)
 
-   1. Zavolej `git remote add origin https://github.com/{DOPLN_TVUJ_UCET}/piskvorky.git`
+1. Příkazem `git add .` vyber nově vytvořený html soubor a s `git commit -m "Základní html"` dokonči první commit.
 
-   1. `git branch -M main`
+1. Přes `git push` nahraj první commit na github.
 
-   1. `git push -u origin main`
-
-1. Zkontroluj, že na adrese `https://github.com/{DOPLN_TVUJ_UCET}/piskvorky` je nahraný `index.html`.
+1. Zkontroluj, že na adrese `https://github.com/{DOPLŇ_TVŮJ_USERNAME}/piskvorky` je nahraný `index.html`.
 
 1. V nastavení povol GitHub Pages.
 
