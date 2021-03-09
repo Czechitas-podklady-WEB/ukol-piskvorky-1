@@ -60,10 +60,10 @@ Toto je první ze série pěti úkolů, ve kterých si postupně naprogramuješ 
 
 - Nadpis Piškvorky je fontem `Lobster`. Najdeš ho zdarma na Google Fonts.
 - Různé vzdálenosti, velikosti textu odhadni od oka nebo přesně změř na obrázku výše.
-- Gradient v pozadí jde z fialové `#615dad` do růžové `#ffc8da`.
+- Gradient v pozadí jde z fialové ![](zadani/barva-615dad.png) `#615dad` do růžové ![](zadani/barva-ffc8da.png) `#ffc8da`.
 - Další barvy, které se ti budou hodit:
-  - Barva textu `#ffffff`.
-  - Podkladová tmavě modrá `#283e50`.
-  - Tlačítko Pravidla `#1fcca4`. A po najetí myši `#1cbb96`.
-  - Tlačítko Začít hrát `#0197f6`. Po najetí `#0090e9`.
+  - Barva textu ![](zadani/barva-ffffff.png) `#ffffff`.
+  - Podkladová tmavě modrá ![](zadani/barva-283e50.png) `#283e50`.
+  - Tlačítko Pravidla ![](zadani/barva-1fcca4.png) `#1fcca4`. A po najetí myši ![](zadani/barva-1cbb96.png) `#1cbb96`.
+  - Tlačítko Začít hrát ![](zadani/barva-0197f6.png) `#0197f6`. Po najetí ![](zadani/barva-0090e9.png) `#0090e9`.
 - Úvodní text nemusíš opisovat. Stačí ho zkopírovat zde: `Piškvorky jsou velmi oblíbená společenská hra pro dva hráče. Obvykle se hraje s tužkou a čtverečkovaným papírem. Nyní můžete využít naši skvělou aplikaci, takže už nepotřebujete ani tužku a nemusíte hledat čtverečkovaný papír. Přejeme vám hodně zábavy!`
