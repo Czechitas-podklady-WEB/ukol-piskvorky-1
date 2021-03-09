@@ -48,7 +48,7 @@ Toto je první ze série pěti úkolů, ve kterých si postupně naprogramuješ 
    1. Pomocí `git add .` označ všechny nové změny.
    1. Přes `git commit -m "Název změn"` pojmenuj, čeho se změny týkají.
    1. S `git push` nahraj commit na Github.
-   1. Vrať se na krok 1.
+   1. Vrať se do prvního kroku.
 
 1. Pro spodní dvě tlačítka použij tag `<a>`. Oběma zatím nastav atribut `href="index.html"`, ať odkazují na úvodní stránku, protože pravidla a hru budeme dělat až v dalších úkolech.
 
