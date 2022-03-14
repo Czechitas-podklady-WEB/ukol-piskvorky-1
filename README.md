@@ -6,11 +6,11 @@ Toto je první ze série pěti úkolů, ve kterých si postupně naprogramuješ 
 
 1. Pokud nemáš na [github.com](https://github.com/) účet, založ si jej.
 
-1. Ve svém účtu vytvoř nový veřejný repozitář pojmenovaný `piskvorky`, do kterého budeš průběžně nahrávat svoji práci. Nezapomeň zaškrtnout, že nový projekt chceš předchystaný se souborem `README`.
+1. Ve svém účtu vytvoř nový veřejný repozitář pojmenovaný `piskvorky`, do kterého budeš průběžně nahrávat svoji práci.
 
-   ![s readme](zadani/s-readme.png)
+   ![s readme](zadani/s-public.png)
 
-1. Repozitář si naklonuj do počítače spuštěním `git clone https://github.com/{DOPLŇ_TVŮJ_USERNAME}/piskvorky.git` na příkazové řádce, v terminálu. Vytvoří se ti složka `piskvorky`, ve které bude `README.md`.
+1. Repozitář si naklonuj do počítače spuštěním `git clone https://github.com/{DOPLŇ_TVŮJ_USERNAME}/piskvorky.git` na příkazové řádce, v terminálu. Vytvoří se ti složka `piskvorky`.
 
 1. V této složce založ soubor `index.html`.
 
@@ -27,6 +27,8 @@ Toto je první ze série pěti úkolů, ve kterých si postupně naprogramuješ 
 1. V nastavení povol GitHub Pages.
 
    ![nastavení](zadani/nastaveni.png)
+
+   ![pages](zadani/pages.png)
 
    ![GitHub Pages](zadani/github-pages.png)
 
