@@ -52,7 +52,10 @@ Toto je první ze série pěti úkolů, ve kterých si postupně naprogramuješ 
    1. S `git push` nahraj commit na Github.
    1. Vrať se do prvního kroku.
 
-1. Pro spodní dvě tlačítka použij tag `<a>`. Oběma zatím nastav atribut `href="index.html"`, ať odkazují na úvodní stránku, protože pravidla a hru budeme dělat až v dalších úkolech.
+1. Pro spodní dvě tlačítka použij tag `<a>`.
+
+   1. Prvnímu tlačítku, odkazu na pravidla nastav atribut `href="https://czechitas-podklady.cz/Piskvorky-pravidla/"`.
+   1. Druhému nastav atribut `href="index.html"`. Bude tedy prozatím odkazovat na stránku, kde zrovna uživatel je. Stránku s hrou totiž doplníte až v dalších úkolech.
 
 1. Tlačíka by se po najetí myši měly ztmavit.
 
