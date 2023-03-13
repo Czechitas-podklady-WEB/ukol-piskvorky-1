@@ -14,11 +14,11 @@ Toto je první ze série pěti úkolů, ve kterých si postupně naprogramuješ 
 
 1. V této složce založ soubor `index.html`.
 
-1. Do `index.html` přidej základní strukturu `html` a mezi značky `<body></body>` vlož nadpis úrovně `h1` s textem `Piškvorky`. Výsledek by měl vypadat takto:
+1. Do `index.html` přidej základní strukturu HTML a mezi značky `<body></body>` vlož nadpis úrovně `h1` s textem `Piškvorky`. Výsledek by měl vypadat takto:
 
    ![základ](zadani/zaklad.png)
 
-1. Příkazem `git add .` vyber nově vytvořený html soubor a s `git commit -m "Základní html"` dokonči první commit.
+1. Příkazem `git add .` vyber nově vytvořený HTML soubor a s `git commit -m "Základní html"` dokonči první commit.
 
 1. Přes `git push` nahraj první commit na github.
 
@@ -40,13 +40,13 @@ Toto je první ze série pěti úkolů, ve kterých si postupně naprogramuješ 
 
 1. Do stejné složky si stáhni obrázek [uvodni.jpg](https://github.com/Czechitas-podklady-WEB/Ukol-Piskvorky-1/raw/main/podklady/uvodni.jpg).
 
-1. Postupnou úpravou html a css uprav stránku do této podoby:
+1. Postupnou úpravou HTML a CSS uprav stránku do této podoby:
 
    ![vizuál](zadani/vizual.png)
 
 1. Nezapomeň průběžně commitovat a nahrávat na GitHub.
 
-   1. Proveď změny. Uprav soubory. Napiš html, css.
+   1. Proveď změny. Uprav soubory. Napiš HTML, CSS.
    1. Pomocí `git add .` označ všechny nové změny.
    1. Přes `git commit -m "Název změn"` pojmenuj, čeho se změny týkají.
    1. S `git push` nahraj commit na Github.
