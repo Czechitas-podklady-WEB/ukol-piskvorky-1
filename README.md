@@ -4,17 +4,23 @@ Toto je první ze série pěti úkolů, ve kterých si postupně naprogramuješ 
 
 ## Zadání
 
-1. Pokud nemáš na [github.com](https://github.com/) účet, založ si jej.
-
-1. Ve svém účtu vytvoř nový veřejný repozitář pojmenovaný `piskvorky`, do kterého budeš průběžně nahrávat svoji práci.
+1. Na GitHubu si otevři repozitář [piskvorky](https://github.com/Czechitas-podklady-WEB/piskvorky). Použij jej jako šablonu (_Use this template_ → _Create a new repository_) pro vytvoření **veřeného** repozitáře pojmenovaného **`piskvorky`** (jméno je důležité), do kterého budeš průběžně nahrávat svoji práci.
 
    ![s readme](zadani/s-public.png)
 
-1. Repozitář si naklonuj do počítače spuštěním `git clone https://github.com/{DOPLŇ_TVŮJ_USERNAME}/piskvorky.git` na příkazové řádce, v terminálu. Vytvoří se ti složka `piskvorky`.
+1. Otevři si VS Code ve složce, do které budeš chtít naklonovat složku `piskvorky` s úkolem (složka `piskvorky` se jako vždy vytvoří sama při klonování). Otevři si ve VS Code terminál a naklonuj si repository piskvorky příkazem (nezapomeň nahradit `<GITHUB_USERNAME>` tvým loginem na GitHubu):
+   ```sh
+   git clone https://github.com/<GITHUB_USERNAME>/piskvorky.git
+   ```
+1. Otevři si naklonovanou složku `piskvorky` znovu ve VS Code pomocí _File_ → _Open Folder_.
+
+1. V průzkumníku souborů ve VS Code uvidíš otevřený projekt `PISKVORKY`, v něm bude jen soubor `README.md` (je tam také soubor `.gitignore` a adresář `.git`, ty jsou ale skryté).
 
 1. V této složce založ soubor `index.html`.
 
-1. Do `index.html` přidej základní strukturu HTML a mezi značky `<body></body>` vlož nadpis úrovně `h1` s textem `Piškvorky`. Výsledek by měl vypadat takto:
+1. Do `index.html` přidej základní strukturu HTML a mezi značky `<body></body>` vlož nadpis úrovně `h1` s textem `Piškvorky`.
+
+1. Spusť si v terminálu vývojový server pomocí `npx serve`. Otevři si vytvořenou stránku ve webovém prohlížeči. Výsledek by měl vypadat takto (jenom v adresním řádku bude port 3000 místo 5500, který je na screenshotu):
 
    ![základ](zadani/zaklad.png)
 
@@ -22,7 +28,7 @@ Toto je první ze série pěti úkolů, ve kterých si postupně naprogramuješ 
 
 1. Přes `git push` nahraj první commit na github.
 
-1. Zkontroluj, že na adrese `https://github.com/{DOPLŇ_TVŮJ_USERNAME}/piskvorky` je nahraný `index.html`.
+1. Zkontroluj, že na adrese `https://github.com/<GITHUB_USERNAME>/piskvorky` je nahraný `index.html`.
 
 1. V nastavení povol GitHub Pages.
 
@@ -71,4 +77,8 @@ Toto je první ze série pěti úkolů, ve kterých si postupně naprogramuješ 
   - Podkladová tmavě modrá ![](zadani/barva-283e50.png) `#283e50`.
   - Tlačítko Pravidla ![](zadani/barva-1fcca4.png) `#1fcca4`. A po najetí myši ![](zadani/barva-1cbb96.png) `#1cbb96`.
   - Tlačítko Začít hrát ![](zadani/barva-0197f6.png) `#0197f6`. Po najetí ![](zadani/barva-0090e9.png) `#0090e9`.
-- Úvodní text nemusíš opisovat. Stačí ho zkopírovat zde: `Piškvorky jsou velmi oblíbená společenská hra pro dva hráče. Obvykle se hraje s tužkou a čtverečkovaným papírem. Nyní můžete využít naši skvělou aplikaci, takže už nepotřebujete ani tužku a nemusíte hledat čtverečkovaný papír. Přejeme vám hodně zábavy!`
+- Úvodní text nemusíš opisovat. Stačí ho zkopírovat zde:
+  > Piškvorky jsou velmi oblíbená společenská hra pro dva hráče.
+  > Obvykle se hraje s tužkou a čtverečkovaným papírem.
+  > Nyní můžete využít naši skvělou aplikaci, takže už nepotřebujete ani tužku a nemusíte hledat čtverečkovaný papír.
+  > Přejeme vám hodně zábavy!
