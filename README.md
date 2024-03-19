@@ -18,7 +18,7 @@ Toto je první ze série pěti úkolů, ve kterých si postupně naprogramuješ 
 
 1. V této složce založ soubor `index.html`.
 
-1. Do `index.html` přidej základní strukturu HTML a mezi značky `<body></body>` vlož nadpis úrovně `h1` s textem `Piškvorky`.
+1. Do `index.html` přidej základní strukturu HTML a mezi značky `<body></body>` vlož nadpis úrovně `h1` s textem `Piškvorky`. Stejný text přidej také do `<title>` v hlavičce dokumentu (`<head>`).
 
 1. Spusť si v terminálu vývojový server pomocí `npx serve`. Otevři si vytvořenou stránku ve webovém prohlížeči. Výsledek by měl vypadat takto (jenom v adresním řádku bude port 3000 místo 5500, který je na screenshotu):
 
